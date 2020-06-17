@@ -1,0 +1,17 @@
+http:
+  port: "8081"
+  
+sfdc:
+  username: "vanthai_van@yahoo.com"
+  password: "Easter@00"
+  token: "ipRUvBU6sHdMsYwdREIWavKp4"
+
+file:
+  accountsDir: "/Users/Fitzroy/Desktop/NJC/resources"
+
+db:
+  host: "mudb.learn.mulesoft.com"
+  port: "3306"
+  user: "mule"
+  password: "mule"
+  database: "training"
